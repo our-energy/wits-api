@@ -1,0 +1,65 @@
+{
+  "schedule": "PRSL",
+  "prices": [
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WKO0331",
+      "price": 94.52,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    },
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WKM2201",
+      "price": 90.15,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    },
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WIR0331",
+      "price": 94.97,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    },
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WIL0331",
+      "price": 95.57,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    },
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WHU0331",
+      "price": 94.25,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    },
+    {
+      "schedule": "PRSL",
+      "runType": "G",
+      "tradingDateTime": "2022-10-28T01:00:00+13:00",
+      "tradingPeriod": 3,
+      "marketType": "E",
+      "node": "WHI2201",
+      "price": 89.73,
+      "lastRunTime": "2022-10-27T20:10:08+13:00"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name: CI
+on: [push]
+jobs:
+  php-81:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: php-actions/composer@v6
+      - name: PHPUnit tests
+        uses: php-actions/phpunit@v3
+        with:
+          configuration: phpunit.xml
+          php_version: "8.1"

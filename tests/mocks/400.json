@@ -1,0 +1,7 @@
+{
+  "status": 400,
+  "code": "INVALID_ISLAND",
+  "message": "Specified island can only be 'NI' or 'SI'",
+  "detail": null,
+  "timestamp": "0001-01-01T00:00:00Z"
+}
